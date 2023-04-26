@@ -38,6 +38,6 @@ export class EditStudentComponent implements OnInit {
     },(error)=>{
       console.log('ERROR - ', error)
     })
-  }
+  } 
 
 }
